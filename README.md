@@ -12,19 +12,19 @@ and can be accessed at : [https://github.com/dabeaz-course/practical-python](htt
 
 Dave mentions about this Course as :
 """
-__A no-nonsense treatment of Python that has been actively taught to 
+_A no-nonsense treatment of Python that has been actively taught to 
 more than 400 in-person groups since 2007.  Traders, systems admins, 
 astronomers, tinkerers, and even a few hundred rocket scientists who 
 used Python to help land a rover on Mars--they've all taken this course. 
-Now, I'm pleased to make it available under a Creative Commons license. Enjoy!__
+Now, I'm pleased to make it available under a Creative Commons license. Enjoy!_
 
-__The material you see here is the heart of an instructor-led Python
+_The material you see here is the heart of an instructor-led Python
 training course used for corporate training and professional
 development. It has been in continual development since 2007 and
 battle tested in real-world classrooms.  Usually, it's taught
 in-person over the span of three or four days--requiring approximately
 25-35 hours of intense work. This includes the completion of
-approximately 130 hands-on coding exercises.__
+approximately 130 hands-on coding exercises._
 """
 
 ## Target Audience
