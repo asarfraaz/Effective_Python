@@ -8,7 +8,7 @@
     -   [Properties](#properties)
     -   [Uniform access](#uniform-access)
     -   [Decorator Syntax](#decorator-syntax)
-    -   [`__slots__` Attribute](#slots__-attribute)
+    -   [`__slots__` Attribute](#__slots__-attribute)
     -   [Final Comments on Encapsulation](#final-comments-on-encapsulation)
 
 5.2 Classes and Encapsulation
